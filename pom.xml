@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>Ruiji</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Ruiji</name>
-    <description>Ruiji</description>
+    <name>Reggie</name>
+    <description>Reggie</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
@@ -85,6 +85,11 @@
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-dysmsapi</artifactId>
             <version>2.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 
